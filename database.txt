@@ -1,0 +1,7 @@
+Buyers:
+Alice Smith 25 Bicycle Red 1000
+Bob Johnson 40 Mountain Bike 2000
+Employees:
+John Doe 30 Alt Store 50000
+Bicycles:
+Stels Quantum 20 7 Blue 550 2024
